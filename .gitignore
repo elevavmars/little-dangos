@@ -1,0 +1,26 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+my_venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite3
+
+# Other files
+*.txt
+*.png
+.vscode/
